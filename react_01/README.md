@@ -1,4 +1,4 @@
-# React To-Do App (Vite)
+# React To-Do App (VITE)
 
 ## Setup
 1. Clone the repository
